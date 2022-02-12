@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<h1>Olessya Povtar</h1> 
+<p>San Francisco,<br>
+ CA 94121 <br>
+mobile: (415) 684-3098 <br>
+email: olesya.povtar@yahoo.com</p>
+<h2>Salesforce Administrator</h2>
+<h3>Professional Summary:</h3> 
+<ul>
+  <li>Over 6 years of performing manual tests, Integration Testing, System Testing and Regression Testing manually helped companies that I worked for, to eliminate about 40-50% of issues to reach their final customer. </li>
+  <li>Strong knowledge of the SDLC, QA Testing Process helped me quickly get ramped up and on boarded to each of my projects and start helping the team within 1-2 weeks. </li>
+<li>Practical Experience with Selenium WebDriver and Selenium IDE allows me to entangle the failing test scripts to the steps to reproduce the issues and help test Master to find the cause of the issue.</li>
+<li>Experience in running / correcting tests with Selenium + Java helped me to reduce the amount of failing tests by about 30%. </li>
+<li>Expertise in API methods SOAP/REST using Postman/ Workbench helped me save my time by about 90% while uploading a significant amount of data for testing purposes. </li>
+<li>Work experience in an Agile SD environment helped me efficiently participate in meetings and sync ups to be able to understand and plan tasks for the next sprint and create reports and presentations. </li>
+<li>Efficient in writing Test Plans and Test Cases based on business requirements and use cases allows me to come up with checklists and test scenarios with a maximum coverage of components functionality. </li>
+<li>Using manual test methods and adjusting test strategies to meet desired design goals made my bug reports look effective and informative for developers with a variety of screenshots and videos of steps to reproduce.</li> 
+<li>Experienced in working with clients for gathering requirements and analysis on ambiguities found helped our QA team to find and file issues before customers faced them. </li>
+<li>Understanding of complex test requirements and being able to formulate test planning and design approaches to support requirements helped me to divide large tasks into smaller pieces for easier and efficient execution. </li>
+<li>Experienced in creating, executing tests, generating the test reports and creating graphs helped me to represent the amount and significance of my work to the management. </li>
+<li>Experience in Salesforce Platform Search and Analytics Cloud including Administration and modification of the various orgs on different test environments helped me provide scrum teams with different orgs setup on a variety of build branches. </li>
+<li>US Citizen Status permits me to work in the US and I do not require visa sponsorship.</li>
+   </ul>
+<h3>Technical Summary: </h3>
+<p>Platforms: 
+Windows, Mac OS, Linux
+Mobile Platforms: iOS, Android <br>
+Programming: 
+HTML, XML, JavaScript, SQL, some Python, Android studio, APK file, TestFlight, PyCharm, some Java, SOAP UI, Salesforce Platform<br>
+Database: 
+Oracle, MySQL 
+Bug Tracking: 
+Jira, Bugzilla, Salesforce GUS </p>
+<h3>Professional Experience: </h3>
+<h4>Salesforce, <br>
+San Francisco, CA <br>
+Business Analyst <br>
+February 2020 – present </h4>
+Responsibilities: 
+<ul>
+<li>Participated in Scrum stand up meetings over Zoom while work from home period </li>
+<li>Participated in the biweekly sprint planning meetings to make sure that all the tasks and user stories were closed within a sprint, and to make a plan for the upcoming 2 weeks sprint. </li>
+<li>Prepared E2E test scenarios for new features based on the scrum team test plans and spikes </li>
+<li>Participated in the bug triage and bugs backlog grooming, tried to repro UI issues and put my comments in the bug. </li>
+<li>Filed over 300 bugs found during Cross Browser, Mobile, Regression, Upgrade and Exploratory testing. </li>
+<li>Was monitoring failing automation tests, and reassigning them to the respective owner teams. </li>
+<li>Mainteinde test orgs release over release, created DOT files, created Upgrade testing orgs </li>
+<li>Executed Manual cross browser testing, cross platform testing, mobile devices testing, functional testing, GUI, etc. for Lightning Reports and Dashboards teams. </li>
+<li>Executed end-to-end testing scenarios on Desktop and Mobile devices to eliminate regression issues. </ul>
+<p>Devices, Platforms and tools: <br>
+  IOS devices from IPhone 6 to IPhone XI, Android: Samsung Galaxy S6 – S9, IPads, Mac Book, Windows, HTML, Selenium WebDriver, Java Script, Salesforce Platform, Workbench, Google Drive, GUS, Gmail, GoogleMeet, Hangout, Google Spreadsheets, Trail Blazers (I have 80 badges), Sauce labs, Zoom ect. </p>
+<h4>Salesforce, <br>
+  San Francisco, CA <br>
+Mobile / UI Platform Manual Testing II <br>
+January 2018 – July 2019 </h4>
+Responsibilities: <br>
+<ul>
+<li>Participated in 10 min standup meetings in person and over Hangout on a daily basis to report the progress of the current assignment and to discuss a plan for the next task. </li>
+<li>Participated in the biweekly sprint meetings to make sure that all the tasks and user stories closed within a sprint, and to make a plan for the upcoming 2 weeks sprint. </li>
+<li>Had 1:1 meetings with the Director, Software Engineering to discuss my personal career path, skills fulfillment, volunteer events, company events and other sync ups.</li> 
+<li>Prepared test documentation for at least five new functionalities including test matrix, test cases, test scenarios, based on particular tasks.</li>
+<li>Triaged more than 500 P0 – P4 bugs related to UI, HTML, design and other issues that reduced the amount of duplicate bugs by at least 5%, close to about 30% of no longer reproducible bugs. </li>
+<li>Come up with at least 20 documented feature suggestions, because I found some areas that require improvements. </li>
+<li>Filed over 100 UI and Functional bugs in Salesforce platform GUS communication tool, provided details of the issue in Salesforce Chatter, and uploaded screenshots and videos with steps how to reproduce the issue. </li>
+<li>Helped to resolve over 20 test failures with Java and Selenium Web driver together with automation Test Master: manually reproduced steps reflected in the test scripts to investigate the reason why the test is failing.</li> 
+<li>Created more than 20 orgs on more than 10 testing environments: created profile based users, assigned licenses, enabled features. </li>
+<li>Created a detailed Quip document with instructions for internal users how to create the org. </li>
+<li>Created more than 1000 records of data for each Object to upload to the new org for testing using Internet resources, CSV files and Workbench API tool. </li>
+<li>Executed Manual cross browser testing, cross platform testing, mobile devices testing, functional testing, GUI, etc. for 3 Search teams, revealing about 30% more issues than the teams were able to find themselves.</li> 
+<li>Interacted with Business Analyst and software engineers to ensure the quality of software meets user expectations, meaning that for the past year we did not have any customer cases that were not known and filed before by our search Q3 team </li>
+<li>Helped to analyze more than 600 feedbacks from internal customers and filed bugs based on findings. </li>
+<li>Verified the integration of various components in the application and executed end-to-end testing. </li>
+</ul>
+<p>Devices, Platforms and tools:<br>
+   IOS devices from IPhone 6 to IPhone X, Android: Samsung Galaxy S6 – S9, IPads, Mac Book, Windows, HTML, Selenium WebDriver, Java Script, Salesforce Platform, Workbench, Google Drive, GUS, Gmail, GoogleMeet, Hangout, Google Spreadsheets, Trail Blazers (I have 80 badges), Sauce labs, Hockey app etc. </p>
+<h4>Whil Concepts, Inc., <br>
+  San Francisco, CA <br>
+Software QA Consultant <br>
+June 2017 – December 2017 </h4>
+Responsibilities: <br>
+<ul>
+  <li>Participated in Requirement meetings (RSD) and Detail Design meetings (DDD) to understand the functional requirements of the application to come up with test scenarios, test flow and test procedures.</li>
+<li>Prepared Test Traceability Matrix to confirm the test coverage and mapped it with Test cases. </li>
+<li>Used Selenium WebDriver for testing web pages and various web elements (images, texts, tables and GUI elements). </li>
+<li>Created Test Data using SQL; Wrote SQL queries for back-end testing. </li>
+<li>Perform API testing by using Postman. </li>
+<li>Use PyCharm for debugging with graphical UI for Python and JavaScript. </li>
+<li>Install APK files, using drag and drop method, e-mail method, via Android Studio.</li> 
+<li>Using Charles Proxy to Inspect and Debug Google Analytics. </li>
+<li>Coordinated User Acceptance Test (UAT) processes, documented and addressed all the issues during the process. </li>
+<li>Interacted with the development configuration and operation's team to ensure the quality of software to user expectations. </li>
+<li>Verified the integration of various components in the application and executed end-to-end testing. </li>
+<li>Participated in Release Review/Requirement Analysis and Design review meetings.</li>
+Environment: <br>
+Windows SQL, HTML, XML, Selenium WebDriver, Postman, Charles Proxy, PyCharm, Java Script, Bugzilla. 
+
+<h3>Education: </h3>
+<ul>
+  <li>BA in Economics, Eurasian University, Almaty, Kazakhstan </li>
+<li>Federal and California State Income Tax Preparation, Golden State Tax Training Institute, San Francisco, </li>
+  <li>CA Accounting on Microcomputer Certificate, City College of San Francisco, San Francisco, CA </ul>
+References available upon request <br>
+<ul>
+  <li>Roberto Gonzalez – Director of software Engineering in Salesforce, San Francisco </li>
+  <li>Jinal Shah – Business Analyst in Salesforce Search Q3 team, San Francisco</li>
+>
